@@ -22,6 +22,8 @@
 
 **ATMA-GRAHA** is a **forensically perfect, bit-for-bit** disk capture and restoration system. It is built around an unbreakable, encrypted `.atma` file format designed for pure, lossless reality preservation. No compression, no approximations—just a perfect digital reflection of the source media.
 
+**⚠️ Important Note:** This project is currently a **Minimum Viable Product (MVP)**. It demonstrates the core functionality and architectural principles but is not yet a production-ready tool. It is intended for educational and experimental purposes.
+
 This project is an experiment in polyglot programming, leveraging the strengths of multiple languages to create a single, cohesive tool.
 
 ## The Polyglot Trinity
