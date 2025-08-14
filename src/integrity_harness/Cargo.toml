@@ -1,0 +1,11 @@
+[package]
+name = "integrity-harness"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10.8"
+
+[[bin]]
+name = "integrity-harness"
+path = "src/main.rs"
